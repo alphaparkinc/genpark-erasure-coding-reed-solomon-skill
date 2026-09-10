@@ -1,0 +1,15 @@
+{
+  "name": "genpark-erasure-coding-reed-solomon-skill",
+  "version": "1.0.0",
+  "description": "Reed-Solomon (k+m) systematic erasure coding kernel over Galois Fields GF(2^8) tolerating up to m disk or network shard dropouts.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "erasure-coding",
+    "reed-solomon",
+    "fault-tolerance",
+    "distributed-storage"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
